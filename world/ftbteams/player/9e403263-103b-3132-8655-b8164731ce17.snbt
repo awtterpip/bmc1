@@ -1,0 +1,17 @@
+{
+	id: "9e403263-103b-3132-8655-b8164731ce17"
+	type: "player"
+	player_name: "SaphiraKai"
+	ranks: {
+		9e403263-103b-3132-8655-b8164731ce17: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SaphiraKai"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

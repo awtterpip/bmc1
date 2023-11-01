@@ -1,0 +1,17 @@
+{
+	id: "692a5c3b-6b22-376e-a721-348f2cbc111e"
+	type: "player"
+	player_name: "KatieOats"
+	ranks: {
+		692a5c3b-6b22-376e-a721-348f2cbc111e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KatieOats"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

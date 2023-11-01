@@ -1,0 +1,17 @@
+{
+	id: "2066e186-b347-3713-b1c0-aa6a2d41d3b9"
+	type: "player"
+	player_name: "otterpip_"
+	ranks: {
+		2066e186-b347-3713-b1c0-aa6a2d41d3b9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "otterpip_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

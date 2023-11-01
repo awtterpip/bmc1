@@ -1,0 +1,17 @@
+{
+	id: "938bc69f-10b5-3790-bf43-cae5b1117174"
+	type: "player"
+	player_name: "GreenieBean_"
+	ranks: {
+		938bc69f-10b5-3790-bf43-cae5b1117174: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GreenieBean_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
