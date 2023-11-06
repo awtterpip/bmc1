@@ -1,4 +1,4 @@
-[11:43:56] [main/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
+[17:12:17] [main/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
 java.lang.ExceptionInInitializerError
 	at griglog.relt.rei_plugin.ReltServer.registerEntryTypes(ReltPlugin.kt:37)
 	at me.shedaniel.rei.impl.common.entry.type.EntryTypeRegistryImpl.acceptPlugin(EntryTypeRegistryImpl.java:56)
@@ -29,14 +29,14 @@ Caused by: java.lang.RuntimeException: Cannot load class me.shedaniel.rei.api.cl
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
-	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
 	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.defineClassFwd(KnotClassLoader.java:153)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:355)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
 	at griglog.relt.rei_plugin.TableEntryDef.<clinit>(TableEntryDef.kt:28)
 	... 22 more

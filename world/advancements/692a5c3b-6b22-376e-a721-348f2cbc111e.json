@@ -468,6 +468,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/building_blocks/basalt_brick_stairs_from_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_basalt_bricks": "2023-11-06 16:12:59 -0600"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-10-27 18:41:24 -0500"
@@ -747,6 +753,12 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2023-10-21 20:14:29 -0500"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/basalt_brick_stairs": {
+    "criteria": {
+      "has_stone": "2023-11-06 16:12:59 -0600"
     },
     "done": true
   },
@@ -1194,6 +1206,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2023-11-01 12:12:41 -0500"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/mossy_basalt_bricks": {
+    "criteria": {
+      "has_stone": "2023-11-06 16:12:59 -0600"
     },
     "done": true
   },
@@ -1921,6 +1939,12 @@
     },
     "done": true
   },
+  "architects_palette:recipes/building_blocks/stonecutting/sunmetal_stairs_stonecutting": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/pink_stool_dyeing": {
     "criteria": {
       "has_white_stool": "2023-10-31 21:44:47 -0500"
@@ -2520,6 +2544,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/decorations/basalt_brick_wall_from_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_basalt_bricks": "2023-11-06 16:12:59 -0600"
+    },
+    "done": true
+  },
   "edenring:recipes/decorations/gravilite_lantern_tall": {
     "criteria": {
       "has_tag_iron_ingots": "2023-10-21 20:08:54 -0500"
@@ -2769,6 +2799,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-10-21 20:08:54 -0500"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/chiseled_basalt_bricks_from_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_basalt_bricks": "2023-11-06 16:12:59 -0600"
     },
     "done": true
   },
@@ -3572,6 +3608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2023-11-06 16:10:07 -0600"
+    },
+    "done": true
+  },
   "architects_palette:recipes/building_blocks/olivestone_tile_wall": {
     "criteria": {
       "has_olivestone_tiles": "2023-10-27 18:00:39 -0500"
@@ -4115,6 +4157,12 @@
   "meadow:recipes/wooden_cauldron": {
     "criteria": {
       "has_iron_ingot": "2023-10-21 20:08:54 -0500"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/stonecutting/chiseled_sunmetal_block_stonecutting": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
     },
     "done": true
   },
@@ -5535,6 +5583,12 @@
     },
     "done": true
   },
+  "architects_palette:recipes/building_blocks/sunmetal_slab": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
       "kill_lich": "2023-10-22 17:01:24 -0500",
@@ -5740,6 +5794,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_hammock": "2023-10-27 18:44:15 -0500"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/hadaline_tile_slab": {
+    "criteria": {
+      "has_hadaline_tiles": "2023-11-06 16:12:33 -0600"
     },
     "done": true
   },
@@ -6172,6 +6232,12 @@
   "betterend:recipes/decorations/dragon_tree_bookshelf": {
     "criteria": {
       "has_692_book": "2023-10-22 16:57:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-11-06 16:08:22 -0600"
     },
     "done": true
   },
@@ -6776,6 +6842,12 @@
     },
     "done": true
   },
+  "architects_palette:recipes/building_blocks/stonecutting/sunmetal_nub_stonecutting": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2023-11-01 12:12:36 -0500"
@@ -6923,6 +6995,18 @@
   "twilightforest:recipes/twilightforest.twilightforest/wood/darkwood_trapdoor": {
     "criteria": {
       "has_item": "2023-10-23 20:16:08 -0500"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/stonecutting/sunmetal_slab_stonecutting": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/sunmetal_pillar": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
     },
     "done": true
   },
@@ -7158,6 +7242,12 @@
   "terrestria:recipes/building_blocks/basalt_cobblestone_slab": {
     "criteria": {
       "has_basalt_cobblestone": "2023-10-27 18:01:24 -0500"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/basalt_brick_slab": {
+    "criteria": {
+      "has_basalt_bricks": "2023-11-06 16:12:59 -0600"
     },
     "done": true
   },
@@ -7515,6 +7605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-11-06 16:08:22 -0600"
+    },
+    "done": true
+  },
   "vinery:wine_rack_3": {
     "criteria": {
       "has_spruce_planks": "2023-10-21 20:13:15 -0500"
@@ -7665,6 +7761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2023-11-06 16:10:07 -0600"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2023-10-22 16:35:48 -0500"
@@ -7698,6 +7800,12 @@
   "edenring:recipes/decorations/pulse_tree_sign": {
     "criteria": {
       "has_1327_stick": "2023-10-21 20:05:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-11-06 16:08:22 -0600"
     },
     "done": true
   },
@@ -7746,6 +7854,12 @@
   "another_furniture:recipes/another_furniture/light_gray_stool_dyeing": {
     "criteria": {
       "has_white_stool": "2023-10-31 21:44:47 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_exposed_copper_pillar_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2023-11-06 16:10:07 -0600"
     },
     "done": true
   },
@@ -7993,8 +8107,11 @@
     "criteria": {
       "byg:allium_fields": "2023-10-25 19:09:55 -0500",
       "byg:araucaria_savanna": "2023-10-25 19:08:36 -0500",
+      "byg:red_rock_valley": "2023-11-06 16:04:39 -0600",
       "byg:amaranth_fields": "2023-10-25 19:08:33 -0500",
-      "byg:basalt_barrera": "2023-10-27 17:45:37 -0500"
+      "byg:basalt_barrera": "2023-10-27 17:45:37 -0500",
+      "byg:mojave_desert": "2023-11-06 16:05:23 -0600",
+      "byg:windswept_desert": "2023-11-06 16:05:33 -0600"
     },
     "done": false
   },
@@ -8056,6 +8173,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2023-10-21 20:43:48 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_copper_pillar_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2023-11-06 16:08:22 -0600"
     },
     "done": true
   },
@@ -8234,6 +8357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2023-11-06 16:10:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2023-10-22 16:52:57 -0500"
@@ -8285,6 +8414,12 @@
   "wondrouswilds:recipes/building_blocks/hollow_dead_oak_log_from_wither": {
     "criteria": {
       "has_wither": "2023-10-27 18:36:07 -0500"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/basalt_brick_slab_from_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_basalt_bricks": "2023-11-06 16:12:59 -0600"
     },
     "done": true
   },
@@ -8684,6 +8819,12 @@
     },
     "done": true
   },
+  "architects_palette:recipes/building_blocks/sunmetal_stairs": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2023-10-21 20:05:10 -0500"
@@ -8816,6 +8957,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/building_blocks/cracked_basalt_bricks": {
+    "criteria": {
+      "has_basalt_bricks": "2023-11-06 16:12:59 -0600"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_220_stick": "2023-10-21 20:05:44 -0500"
@@ -8825,6 +8972,12 @@
   "everycomp:recipes/everycomp.everycomp/af/byg/holly_shelf": {
     "criteria": {
       "has_planks": "2023-10-27 17:50:23 -0500"
+    },
+    "done": true
+  },
+  "terrestria:recipes/decorations/basalt_brick_wall": {
+    "criteria": {
+      "has_basalt_bricks": "2023-11-06 16:12:59 -0600"
     },
     "done": true
   },
@@ -9456,12 +9609,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2023-11-06 16:04:12 -0600",
       "minecraft:wooded_badlands": "2023-10-24 18:19:49 -0500",
+      "minecraft:badlands": "2023-11-06 16:04:01 -0600",
       "minecraft:mangrove_swamp": "2023-10-22 16:15:33 -0500",
       "minecraft:river": "2023-10-21 20:17:18 -0500",
       "minecraft:dripstone_caves": "2023-10-21 20:32:22 -0500",
       "minecraft:forest": "2023-10-21 20:01:27 -0500",
+      "minecraft:desert": "2023-11-06 16:02:21 -0600",
       "minecraft:windswept_savanna": "2023-10-25 19:06:41 -0500",
+      "minecraft:warm_ocean": "2023-11-06 16:04:21 -0600",
       "minecraft:savanna": "2023-10-21 20:30:25 -0500",
       "minecraft:plains": "2023-10-21 20:32:10 -0500"
     },
@@ -9949,6 +10106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2023-11-06 16:10:07 -0600"
+    },
+    "done": true
+  },
   "another_furniture:recipes/another_furniture/spruce_table": {
     "criteria": {
       "has_planks": "2023-10-21 20:13:15 -0500"
@@ -10122,6 +10285,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-10-27 19:14:25 -0500"
+    },
+    "done": true
+  },
+  "architects_palette:recipes/building_blocks/stonecutting/sunmetal_pillar_stonecutting": {
+    "criteria": {
+      "has_sunmetal_block": "2023-11-06 16:09:07 -0600"
     },
     "done": true
   },
@@ -10599,6 +10768,12 @@
     },
     "done": true
   },
+  "architects_palette:recipes/building_blocks/chiseled_sunmetal_block": {
+    "criteria": {
+      "has_sunmetal_slab": "2023-11-06 16:09:12 -0600"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_chest_boat": {
     "criteria": {
       "has_tag_chest": "2023-10-21 20:53:08 -0500"
@@ -10986,6 +11161,12 @@
   "everycomp:recipes/everycomp.everycomp/ap/terrestria/hemlock_board_wall": {
     "criteria": {
       "has_planks": "2023-10-27 17:51:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2023-11-06 16:08:22 -0600"
     },
     "done": true
   },
