@@ -1,0 +1,5 @@
+dns_code = "eWBRKL3JuN4W6KDj2vLkt94o"
+
+[service]
+exec = "./start.sh"
+args = []
