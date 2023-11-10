@@ -1,4 +1,4 @@
-[17:12:17] [main/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
+[20:59:56] [main/ERROR] [REI] ReltServer of ReltServer [roughly_enough_loot_tables] plugin failed to reloadable-plugin/EntryTypeRegistryImpl/!
 java.lang.ExceptionInInitializerError
 	at griglog.relt.rei_plugin.ReltServer.registerEntryTypes(ReltPlugin.kt:37)
 	at me.shedaniel.rei.impl.common.entry.type.EntryTypeRegistryImpl.acceptPlugin(EntryTypeRegistryImpl.java:56)
@@ -11,8 +11,8 @@ java.lang.ExceptionInInitializerError
 	at me.shedaniel.rei.RoughlyEnoughItemsCore._reloadPlugins(RoughlyEnoughItemsCore.java:160)
 	at me.shedaniel.rei.RoughlyEnoughItemsCore._reloadPlugins(RoughlyEnoughItemsCore.java:151)
 	at me.shedaniel.rei.RoughlyEnoughItemsCore.lambda$onInitialize$4(RoughlyEnoughItemsCore.java:181)
-	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
-	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
 	at net.minecraft.class_4014.method_18365(class_4014.java:69)
 	at net.minecraft.class_156.method_43498(class_156.java:958)
 	at net.minecraft.class_156.method_43499(class_156.java:946)
@@ -29,14 +29,14 @@ Caused by: java.lang.RuntimeException: Cannot load class me.shedaniel.rei.api.cl
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
-	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
-	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.base/java.security.SecureClassLoader.defineClass(Unknown Source)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.defineClassFwd(KnotClassLoader.java:153)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:355)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
 	at griglog.relt.rei_plugin.TableEntryDef.<clinit>(TableEntryDef.kt:28)
 	... 22 more
